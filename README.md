@@ -1,5 +1,5 @@
 # Deployment Link (Live)
-https://app.netlify.com/sites/flourishing-sunshine-4f2ce7/deploys/6628a75fb16bbd7118b7b045
+https://6628a75fb16bbd7118b7b045--flourishing-sunshine-4f2ce7.netlify.app/
 
 # Getting Started with Create React App
 
